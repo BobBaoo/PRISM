@@ -3,25 +3,31 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Graduate Scholarship"
+subtitle = "Ministry of Education, China"
 date = "2025"
-content = "Description of the award."
+content = "Top-level national scholarship for graduate students."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First-class Postgraduate Scholarship (Top 5%)"
+subtitle = "Jinan University"
 date = "2024"
-content = "Description of the award."
+content = "Awarded for outstanding academic performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First-class Postgraduate Scholarship (Top 5%)"
+subtitle = "Jinan University"
 date = "2023"
-content = "Description of the award."
+content = "Awarded for outstanding academic performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Second-class Undergraduate Scholarship (Top 10%)"
+subtitle = "Jinan University"
+date = "2023"
+content = "Awarded for excellent academic achievement."
+
+[[items]]
+title = "Second-class Undergraduate Scholarship (Top 10%)"
+subtitle = "Jinan University"
 date = "2022"
-content = "Description of the award."
+content = "Awarded for excellent academic achievement."

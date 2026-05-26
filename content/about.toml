@@ -3,9 +3,11 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Statistical Learning",
+  "Language Acquisition",
+  "Cognitive Neuroscience",
+  "EEG/ERP Methods",
+  "Modality Specificity"
 ]
 
 [[sections]]
@@ -26,4 +28,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-

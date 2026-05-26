@@ -3,9 +3,11 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "统计学习",
+  "语言习得",
+  "认知神经科学",
+  "EEG/ERP 脑电技术",
+  "模态特异性"
 ]
 
 [[sections]]
@@ -16,8 +18,9 @@ title = "关于我"
 
 [[sections]]
 id = "featured_publications"
-type = "publications"
-title = "精选论文"
+type = "list"
+source = "publications.toml"
+title = "会议报告与论文"
 filter = "selected"
 limit = 5
 

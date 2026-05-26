@@ -3,25 +3,31 @@ title = "奖项"
 description = "我获得的荣誉与奖项。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "研究生国家奖学金"
+subtitle = "中华人民共和国教育部"
 date = "2025"
-content = "奖项说明。"
+content = "面向研究生的国家级最高奖学金。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "研究生一等奖学金（前5%）"
+subtitle = "暨南大学"
 date = "2024"
-content = "奖项说明。"
+content = "因学业成绩优异获得。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "研究生一等奖学金（前5%）"
+subtitle = "暨南大学"
 date = "2023"
-content = "奖项说明。"
+content = "因学业成绩优异获得。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "本科二等奖学金（前10%）"
+subtitle = "暨南大学"
+date = "2023"
+content = "因学业成绩优秀获得。"
+
+[[items]]
+title = "本科二等奖学金（前10%）"
+subtitle = "暨南大学"
 date = "2022"
-content = "奖项说明。"
+content = "因学业成绩优秀获得。"

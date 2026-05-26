@@ -1,20 +1,22 @@
 [site]
 title = "保博"
-description = "澳大利亚国立大学语言学系心理语言学博士生"
+description = "暨南大学神经语言学硕士 | 澳大利亚国立大学心理语言学博士（2026秋入学）"
 last_updated = "2026年5月26日"
 
 [author]
 name = "保博"
-title = "博士研究生（心理语言学）"
-institution = "澳大利亚国立大学"
+title = "硕士研究生 | 准博士研究生"
+institution = "暨南大学 / 澳大利亚国立大学"
 
 [social]
-location = "澳大利亚堪培拉 / 中国广州"
+email = "baobo0708@gmail.com"
+location = "广州，中国 / 堪培拉，澳大利亚"
 location_details = [
   "澳大利亚国立大学",
   "语言学系",
   "Canberra, ACT, Australia"
 ]
+github = "https://github.com/BobBaoo"
 
 [[navigation]]
 title = "关于我"

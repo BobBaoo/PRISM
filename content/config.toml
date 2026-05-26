@@ -1,18 +1,18 @@
 [site]
 title = "Bob Bao"
-description = "PhD student in Linguistics (Psycholinguistics) at Australian National University."
+description = "MA in Neurolinguistics at Jinan University | Incoming PhD in Psycholinguistics at ANU (Fall 2026)"
 favicon = "/favicon.svg"
 last_updated = "May 26, 2026"
 
 [author]
 name = "Bob Bao"
-title = "PhD Student (Psycholinguistics)"
-institution = "Australian National University"
+title = "MA Student | Incoming PhD Student"
+institution = "Jinan University / Australian National University"
 avatar = "/bio.jpg"
 
 [social]
 email = "baobo0708@gmail.com"
-location = "Canberra, Australia / Guangzhou, China"
+location = "Guangzhou, China / Canberra, Australia"
 location_url = "https://maps.google.com"
 location_details = [
   "School of Linguistics,",
